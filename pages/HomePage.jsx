@@ -3,7 +3,8 @@ function Homepage() {
     <div className="home">
       <h1>Welcome to My Website</h1>
       <p>This is the Home Page built using React.</p>
-      
+      <p>Explore the site to learn more about my projects and ideas.</p>
+
 
       
     </div>
